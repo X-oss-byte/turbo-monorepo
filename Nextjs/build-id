@@ -1,0 +1,6 @@
+builders : Build files for turbo-monorepo
+  Assign : assign I_D to new files "The BUILD_ID"
+    job : "nextjs" build file for the Output Directory. Don't you forget to run "next build" in the Build Command?
+    Example:
+    @I_D: XXXXXXXXXXX
+    @I_D: 126OOOP23RS
